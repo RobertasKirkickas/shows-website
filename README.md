@@ -66,19 +66,6 @@ Search for TV Shows: Enter the name of a TV show in the search bar.
 
 View Results: See the search results dynamically updated below the search bar.
 
-#### Code Overview
-
-``
-src/App.js: Main component handling search functionality and results display.
-``
-
-``
-src/App.css: Styles for the application.
-``
-
-``
-src/index.js: Entry point for the React application.
-``
 
 #### Dependencies
 
